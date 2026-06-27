@@ -1,0 +1,14 @@
+{
+  "appId": "uz.zaryaduz.app",
+  "appName": "ZaryadUz",
+  "webDir": "www",
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystorePassword": null,
+      "keystoreAlias": null,
+      "keystoreAliasPassword": null,
+      "releaseType": "APK"
+    }
+  }
+}
